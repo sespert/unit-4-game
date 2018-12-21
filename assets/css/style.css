@@ -1,0 +1,17 @@
+body {
+    background-image: url("../images/honey_im_subtle.png");
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+#footer {
+    background-color:black;
+    font-family: 'Georgia', Times, Times New Roman, serif; 
+    color: #ffffff;  
+    height: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;   
+}
